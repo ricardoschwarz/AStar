@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/AStar">
+        <file>Resources/star.PNG</file>
+    </qresource>
+</RCC>
